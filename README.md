@@ -18,4 +18,12 @@ Beautiful Crypto App with API support.
 
 ![Crypto App GIF](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/app_gif.gif)
 
+![Crypto App Screenshot1](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/img1.png)
+
+![Crypto App Screenshot1](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/img2.png)
+
+![Crypto App Screenshot1](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/img3.png)
+
+![Crypto App Screenshot1](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/img4.png)
+
 ### UI inspiration from: https://dribbble.com/shots/17555853-Cryptly-Crypto-App
