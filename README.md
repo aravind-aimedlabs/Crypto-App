@@ -1,4 +1,4 @@
-# Flutter Crypto App with API support for iOS and Android.
+# Crypto App with API support for iOS and Android.
 Beautiful Crypto App with API support.
 ## Please leave a ⭐ if you like it 💙
 
@@ -6,7 +6,7 @@ Beautiful Crypto App with API support.
 - Dark and Light Mode friendly
 - Prices from API
 - Local portoflio storage
-- Responsize
+- Responsive
 - Performance friendly
 - Home and Details page
 - Easy to edit
