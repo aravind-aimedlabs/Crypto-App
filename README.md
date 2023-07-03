@@ -1,5 +1,4 @@
 # Flutter Crypto App with API support for iOS and Android.
-### Flutter 2.10.3 Null Safety (2022)
 Beautiful Crypto App with API support.
 ## Please leave a ⭐ if you like it 💙
 
