@@ -2,6 +2,8 @@
 Beautiful Crypto App with API support.
 ## Please leave a ⭐ if you like it 💙
 
+![Crypto App Banner](https://github.com/aravind-aimedlabs/Crypto-App/raw/main/assets/crypto_app_banner.jpg)
+
 ## Features:
 - Dark and Light Mode friendly
 - Prices from API
